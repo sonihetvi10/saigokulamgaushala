@@ -120,6 +120,11 @@ background-size: cover;
   width: 100%;
   height:1000px;
 }
+.productss{
+  background-color: rgb(255,255,255,0.8);
+  width: 100%;
+  height:1000px;
+}
 
 
 .productsi{
@@ -337,6 +342,11 @@ li i {
     height: 2200px;
   }
 }
+@media screen and (max-width: 600px) {
+  .productss {
+    height: 1000px;
+  }
+}
 
 
 
@@ -361,7 +371,7 @@ li i {
 
 @media screen and (max-width: 600px) {
   .productsi {
-    height: 2000px;
+    height: 2500px;
   }
 }
 
