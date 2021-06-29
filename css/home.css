@@ -114,6 +114,10 @@ background-size: cover;
  margin-top: :10px;
 
 }
+ .spacef{
+  height:20px;
+  opacity: 0px;
+ }
     
 .products{
   background-color: rgb(255,255,255,0.8);
