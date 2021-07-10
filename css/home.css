@@ -69,6 +69,10 @@ background-size: cover;
   height:100px;
   opacity: 0px;
  }
+ .spacef{
+  height:20px;
+  opacity: 0px;
+ }
 
 .main2
 {
